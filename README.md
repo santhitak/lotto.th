@@ -1,6 +1,6 @@
 # lotto.th
 
-### Fresh.js - Thai lottory results showcase site
+### Thai lottory results showcase site build with Fresh.js 
 <b>status:</b> `in development`
 
 #### start project
