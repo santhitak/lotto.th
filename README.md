@@ -1,6 +1,6 @@
 # lotto.th
 
-### Fresh.js playground - Thai lottory displayer site build on deno
+### Thai lottory results showcase site build with Fresh.js 
 <b>status:</b> `in development`
 
 #### start project
